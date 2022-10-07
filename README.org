@@ -1,0 +1,4 @@
+#+BEGIN_COMMENT
+Include readme stats from: https://github.com/anuraghazra/github-readme-stats
+#+END_COMMENT
+#+html: <div><a href="https://github.com/etu"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=etu&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true&hide_border=true" /></a><a href="https://github.com/etu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etu&layout=compact&theme=dark&hide=javascript,C&hide_border=true" /></a></div>
